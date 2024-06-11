@@ -13,4 +13,5 @@
         <toc-element topic="Tutorial.md"/>
         <toc-element topic="How-to.md"/>
     </toc-element>
+    <toc-element topic="new-topic-test.md"/>
 </instance-profile>
