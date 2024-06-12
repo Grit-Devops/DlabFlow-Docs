@@ -5,7 +5,9 @@
     <variables></variables>
     <build-profile instance="dfd">
         <variables>
-            <noindex-content>true</noindex-content>
+            <algolia-id>8BOH1RJN0N</algolia-id>
+            <algolia-index>DLAB_FLOW_INDEX</algolia-index>
+            <algolia-api-key>1735d46a4dcf07a4cd295a49156e3433</algolia-api-key>
         </variables>
     </build-profile>
 
