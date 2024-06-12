@@ -7,27 +7,27 @@
     </rule>
     -->
     <rule id="147f3b3a">
-        <description>Created after removal of "리소스 관리" from DLab Flow Docs</description>
+        <description>Created after removal of "리소스 관리" from Dlab Flow Docs</description>
         <accepts>resource.html</accepts>
     </rule>
     <rule id="719ae557">
-        <description><![CDATA[Created after removal of "<resource-mng.md>" from DLab Flow Docs]]></description>
+        <description><![CDATA[Created after removal of "<resource-mng.md>" from Dlab Flow Docs]]></description>
         <accepts>resource-mng.html</accepts>
     </rule>
     <rule id="352638f4">
-        <description>Created after removal of "데이터셋 관리" from DLab Flow Docs</description>
+        <description>Created after removal of "데이터셋 관리" from Dlab Flow Docs</description>
         <accepts>dataset=mng.html</accepts>
     </rule>
     <rule id="86685c6">
-        <description>Created after removal of "데이터셋 관리" from DLab Flow Docs</description>
+        <description>Created after removal of "데이터셋 관리" from Dlab Flow Docs</description>
         <accepts>dataset-mng.html</accepts>
     </rule>
     <rule id="34462b0b">
-        <description>Created after removal of "Overview" from DLab Flow Docs</description>
+        <description>Created after removal of "Overview" from Dlab Flow Docs</description>
         <accepts>Overview.html</accepts>
     </rule>
     <rule id="3cc38f36">
-        <description>Created after removal of "Reference" from DLab Flow Docs</description>
+        <description>Created after removal of "Reference" from Dlab Flow Docs</description>
         <accepts>Reference.html</accepts>
     </rule>
 </rules>
