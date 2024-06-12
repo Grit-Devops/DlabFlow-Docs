@@ -11,7 +11,9 @@
         <toc-element topic="resource-mng.md"/>
         <toc-element topic="aiproject-mng.md"/>
         <toc-element topic="Tutorial.md"/>
-        <toc-element topic="How-to.md"/>
+        <toc-element topic="How-to.md">
+        </toc-element>
+        <toc-element topic="test.topic"/>
     </toc-element>
     <toc-element topic="new-topic-test.md"/>
 </instance-profile>
