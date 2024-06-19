@@ -50,4 +50,12 @@
         <description>Created after removal of "데이터셋 선택" from Dlab Flow Docs</description>
         <accepts>dataset-sellect.html</accepts>
     </rule>
+    <rule id="9f832c3">
+        <description>Created after removal of "Tutorial" from Dlab Flow Docs</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="389c74ea">
+        <description>Created after removal of "Section Starting Page" from Dlab Flow Docs</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
 </rules>
