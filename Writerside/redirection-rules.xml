@@ -30,4 +30,24 @@
         <description>Created after removal of "Reference" from Dlab Flow Docs</description>
         <accepts>Reference.html</accepts>
     </rule>
+    <rule id="45fa4f55">
+        <description>Created after removal of "새로운 주제 만들어 보기" from Dlab Flow Docs</description>
+        <accepts>new-topic-test.html</accepts>
+    </rule>
+    <rule id="4f71099c">
+        <description>Created after removal of "테스트" from Dlab Flow Docs</description>
+        <accepts>test.html</accepts>
+    </rule>
+    <rule id="29e6cc2d">
+        <description>Created after removal of "How to" from Dlab Flow Docs</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="2f426982">
+        <description>Created after removal of "Tutorial" from Dlab Flow Docs</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="4744a8f0">
+        <description>Created after removal of "데이터셋 선택" from Dlab Flow Docs</description>
+        <accepts>dataset-sellect.html</accepts>
+    </rule>
 </rules>

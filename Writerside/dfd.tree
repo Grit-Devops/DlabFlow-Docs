@@ -9,11 +9,27 @@
     <toc-element topic="starter.md"/>
     <toc-element topic="get-started.md">
         <toc-element topic="resource-mng.md"/>
-        <toc-element topic="aiproject-mng.md"/>
-        <toc-element topic="Tutorial.md"/>
-        <toc-element topic="How-to.md">
+        <toc-element topic="object-browser.md"/>
+        <toc-element topic="dataset-mng.md">
+            <toc-element topic="resource-select.md"/>
+            <toc-element topic="dataset-member-mng.md"/>
+            <toc-element topic="assign-mng.md"/>
+            <toc-element topic="class-definition-mng.md"/>
+            <toc-element topic="auto-annotation-mng.md"/>
+            <toc-element topic="annotation-mng.md"/>
+            <toc-element topic="dataset-health.md"/>
         </toc-element>
-        <toc-element topic="test.topic"/>
+        <toc-element topic="aiproject-mng.md">
+            <toc-element topic="dataset-select.md"/>
+            <toc-element topic="project-member-mng.md"/>
+            <toc-element topic="generate.md"/>
+            <toc-element topic="version-mng.md"/>
+            <toc-element topic="model-deploy.md"/>
+        </toc-element>
+        <toc-element topic="ai-model-mng.md"/>
+        <toc-element topic="device-mng.md"/>
     </toc-element>
-    <toc-element topic="new-topic-test.md"/>
+    <toc-element topic="test.md">
+        <toc-element topic="여기에-자유롭게-추가-삭제-하세요.md"/>
+    </toc-element>
 </instance-profile>
