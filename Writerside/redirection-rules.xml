@@ -58,4 +58,8 @@
         <description>Created after removal of "Section Starting Page" from Dlab Flow Docs</description>
         <accepts>Section-Starting-Page.html</accepts>
     </rule>
+    <rule id="4d3af974">
+        <description>Created after removal of "Starter" from Dlab Flow Docs</description>
+        <accepts>starter.html</accepts>
+    </rule>
 </rules>

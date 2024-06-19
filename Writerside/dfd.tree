@@ -4,9 +4,8 @@
 
 <instance-profile id="dfd"
                  name="Dlab Flow Docs"
-                 start-page="starter.md">
+                 start-page="get-started.md">
 
-    <toc-element topic="starter.md"/>
     <toc-element topic="get-started.md">
         <toc-element topic="resource-mng.md"/>
         <toc-element topic="object-browser.md"/>
