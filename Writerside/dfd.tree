@@ -6,6 +6,7 @@
                  name="Dlab Flow Docs"
                  start-page="get-started.md">
 
+    <toc-element topic="starter.md"/>
     <toc-element topic="get-started.md">
         <toc-element topic="resource-mng.md"/>
         <toc-element topic="object-browser.md"/>
